@@ -1,0 +1,55 @@
+a{
+  color: inherit;
+}
+a:hover{
+  text-decoration: none;
+  color: inherit;
+}
+.orange{
+  color: #ffa628;
+}
+.green{
+  color: #81ce57;
+}
+.blue{
+  color: #4eabe3;
+}
+.red{
+  color: #ee2d32;
+}
+.brown{
+  color: #ac8e73;
+}
+.gray{
+  color: #888;
+}
+.back-orange{
+  background-color: #ffa628;
+}
+.back-green{
+  background-color: #81ce57;
+}
+.back-blue{
+  background-color: #4eabe3;
+}
+.back-red{
+  background-color: #ee2d32;
+}
+.back-brown{
+  background-color: #ac8e73;
+}
+.back-gray{
+  background-color: #888;
+}
+.light{
+  font-weight: 200 !important;
+}
+.maxw-130{
+  max-width: 130px;
+}
+.maxw-300{
+  max-width: 300px;
+}
+.maxw-600{
+  max-width: 600px;
+}
